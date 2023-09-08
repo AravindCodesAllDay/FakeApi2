@@ -1,0 +1,89 @@
+{
+    "info":[
+        {
+            "id": 1,
+            "heading": "Garage",
+            "reduce": [
+                "hi",
+                "hello",
+                "welcome"
+            ],
+            "reuse": [
+                "tip-1",
+                "tip-2"
+            ],
+            "recycle": [
+                "link-1",
+                "link-2"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "Sink",
+            "reduce": [
+                "hi",
+                "hello",
+                "welcome"
+            ],
+            "reuse": [
+                "tip-1",
+                "tip-2"
+            ],
+            "recycle": [
+                "link-1",
+                "link-2"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "BathTub",
+            "reduce": [
+                "hi",
+                "hello",
+                "welcome"
+            ],
+            "reuse": [
+                "tip-1",
+                "tip-2"
+            ],
+            "recycle": [
+                "link-1",
+                "link-2"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "Stove",
+            "reduce": [
+                "hi",
+                "hello",
+                "welcome"
+            ],
+            "reuse": [
+                "tip-1",
+                "tip-2"
+            ],
+            "recycle": [
+                "link-1",
+                "link-2"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "shower",
+            "reduce": [
+                "hi",
+                "hello",
+                "welcome"
+            ],
+            "reuse": [
+                "tip-1",
+                "tip-2"
+            ],
+            "recycle": [
+                "link-1",
+                "link-2"
+            ]
+        }
+    ]
+}
